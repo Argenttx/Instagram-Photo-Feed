@@ -13,6 +13,7 @@ header h1{
 div.post{
     margin-top: 10px;
     background: white;
+    border-radius: 10px;
 }
 div.post img{
     width: 600px;
